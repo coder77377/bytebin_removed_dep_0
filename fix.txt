@@ -1,0 +1,8 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>io.jooby</groupId
+	<artifactId>jooby-jetty</artifactId
+</dependency>
+```
